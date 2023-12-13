@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [ {
+			"item": "jasperium:jasperium_ingot"
+		}
+	],
+	"result": {
+		"item": "jasperium:jasperium_nugget",
+		"count": 9
+	}
+}

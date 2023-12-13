@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "jasperium:raw_jasperium"
+	},
+	"result": "jasperium:jasperium_ingot",
+	"experience": 1.0,
+	"cookingtime": 100
+}

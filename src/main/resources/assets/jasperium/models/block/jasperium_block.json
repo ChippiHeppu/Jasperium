@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"down": "jasperium:blocks/jasperium_block_top",
+		"east": "jasperium:blocks/jasperium_block_side",
+		"north": "jasperium:blocks/jasperium_block_front",
+		"particle": "jasperium:blocks/jasperium_block_front",
+		"south": "jasperium:blocks/jasperium_block_back",
+		"up": "jasperium:blocks/jasperium_block_top",
+		"west": "jasperium:blocks/jasperium_block_side"
+	}
+}

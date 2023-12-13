@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"HHH",
+		"HHH",
+		"HHH"
+	],
+	"key": {
+		"H": {
+			"item": "jasperium:jasperium_nugget"
+		}
+	},
+	"result": {
+		"item": "jasperium:jasperium_ingot"
+	}
+}

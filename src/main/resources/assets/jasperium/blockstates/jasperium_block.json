@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "jasperium:block/jasperium_block"
+		}
+	}
+}
